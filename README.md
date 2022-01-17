@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteagh82&count_bg=%23A488EB&title_bg=%23FF42B2&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
 ![header](https://capsule-render.vercel.app/api?color=ffcced&text=Kihyeon's%20GitHub&fontSize=40&fontColor=050024)
 </br>
+</br></br>
+
+<div align="center">
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=teagh82&show_icons=true&theme=radical)
+</div>
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teagh82&layout=compact&theme=radical)-->
+</br></br>
 
 <h2 align="center">⭐️ Tech Stack ⭐️</h2>
  
@@ -32,5 +39,4 @@ Here are some ideas to get you started:
 
 <p align="center"><a href="https://code-kh-studio.tistory.com/"><img src="https://img.shields.io/badge/My tech blog-7952B3?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://code-kh-studio.tistory.com/"/></a>  <a href="mailto:teagh8237@gmail.com"><img src="https://img.shields.io/badge/Gmail-C10000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:teagh8237@gmail.com"/></a>  <a href="mailto:teagh82@naver.com"><img src="https://img.shields.io/badge/Naver mail-brightgreen?style=flat-square&logo=Naver&logoColor=white&link=mailto:teagh82@naver.com"/></a>  <a href="https://hip-accordion-2b6.notion.site/0bb746a52d96419fb0c0fcca6179adb4"><img src="https://img.shields.io/badge/Notion Portfolio-C51A4A?style=flat-square&logo=Notion&logoColor=white&link=https://hip-accordion-2b6.notion.site/0bb746a52d96419fb0c0fcca6179adb4"/></a>
 
-</br></br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=teagh82&show_icons=true&theme=radical)
+
