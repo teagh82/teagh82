@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<!--
+
+<!--### Hi there 👋
 **teagh82/teagh82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?color=ffcced&text=Kihyeon's%20GitHub&fontSize=40&fontColor=9c5181)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteagh82&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
+![header](https://capsule-render.vercel.app/api?color=ffcced&text=Kihyeon's%20GitHub&fontSize=40&fontColor=050024)
+</br>
 
 <h2 align="center">⭐️ Tech Stack ⭐️</h2>
  
